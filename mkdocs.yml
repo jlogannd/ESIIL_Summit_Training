@@ -4,8 +4,8 @@ site_author: Jess Logan
 site_url: https://github.com/jlogannd/ESIIL_Summit_Training
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: ESIIL_Summit_Training
+repo_url: https://github.com/jlogannd/ESIIL_Summit_Training
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'

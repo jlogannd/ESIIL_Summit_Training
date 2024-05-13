@@ -1,7 +1,7 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_name: 'ESIIL Innovation Summit Training'
+site_description: 'Sandbox'
+site_author: Jess Logan
+site_url: https://github.com/jlogannd/ESIIL_Summit_Training
 
 # Repository
 repo_name: Postdoc_OASIS
